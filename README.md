@@ -1,5 +1,5 @@
-## browser의 밝기를 손쉽게 설정하세요
-다운로드
+### browser의 밝기를 손쉽게 설정하세요
+### [다운로드]()
 
 ![001](https://github.com/user-attachments/assets/e53f5731-9ea3-44b3-86ce-b13cab5d94fa)
 
